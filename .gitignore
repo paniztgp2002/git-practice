@@ -1,0 +1,5 @@
+*.csv
+*.xlsx
+data/raw/
+.DS_Store
+.Rhistory
